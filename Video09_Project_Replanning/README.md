@@ -1,7 +1,7 @@
 # AgentClinic
 
-## Input from stakeholders
+## 이해관계자 의견
 
-- Mary in engineering wants a reliable site with a popular stack based on TypeScript, giving agents and staff a dashboard for easy access.
-- Susan in product has a set of features about agents and their ailments, therapies, and booking appointments.
-- Steve in marketing wants an attractive site that works well with a modern browser.
+- 엔지니어링 팀의 Mary는 TypeScript 기반의 인기 있는 기술 스택을 사용하여 안정적인 사이트를 구축하고, 상담원과 직원이 쉽게 접근할 수 있는 대시보드를 제공하기를 원합니다.
+- 제품 팀의 Susan은 상담원, 상담원의 질환 및 치료법, 그리고 예약 관리와 관련된 기능들을 요구합니다.
+- 마케팅 팀의 Steve는 최신 브라우저에서 원활하게 작동하는 매력적인 사이트를 원합니다.
