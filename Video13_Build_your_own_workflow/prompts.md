@@ -1,21 +1,21 @@
-# Lesson 12 — Prompts
+# 레슨 12 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-I want to stop repeating the feature spec prompt. Use your skill creator to help me write a "feature spec" local skill. Here is the previous prompt:
+'기능 명세(feature spec)' 작성 프롬프트를 매번 반복해서 입력하고 싶지 않습니다. '스킬 생성기(skill creator)' 기능을 활용해 '기능 명세'용 로컬 스킬을 작성하도록 도와주세요. 이전 프롬프트 내용은 다음과 같습니다:
 
-Find the next phase on specs/roadmap.md and make a branch, ask me about the feature spec.
-Create:
- - A new directory YYYY-MM-DD-feature-name under specs for this feature work
- - In there:
-  - `plan.md` as a series of numbered task groups.
-  - `requirements.md` for the scope, decisions, context
-  - `validation.md` for how to know the implementation succeeded and can be merged
+`specs/roadmap.md`에서 다음 단계(phase)를 찾아 브랜치를 생성하고, 해당 기능 명세에 대해 저에게 질문해 주세요.
+다음 항목을 생성하세요:
+- 이번 기능 작업을 위해 `specs` 디렉토리 하위에 `YYYY-MM-DD-feature-name` 형태의 새 디렉토리 생성
+- 해당 디렉토리 내에 다음 파일 생성:
+- `plan.md`: 번호가 매겨진 일련의 작업 그룹으로 구성
+- `requirements.md`: 범위, 결정 사항, 배경 정보(context) 포함
+- `validation.md`: 구현 성공 여부 및 병합 가능 여부 확인 방법 기술
 
-Refer to specs/mission.md and specs/tech-stack.md for guidance.
+참고 자료로 `specs/mission.md`와 `specs/tech-stack.md`를 활용하세요.
 
-Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
+중요: 디스크에 파일을 쓰기 전에, 반드시 앞서 언급한 3가지 항목과 관련하여 `AskUserQuestion` 도구를 사용해 질문해야 합니다.
 
-## Prompt 2
+## 프롬프트 2
 
-Use your feature-spec skill to work on the next roadmap feature.
+'기능 명세' 스킬을 사용하여 로드맵상의 다음 기능을 작업하세요.
