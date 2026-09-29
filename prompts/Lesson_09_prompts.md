@@ -1,17 +1,17 @@
-# Lesson 09 — Prompts
+# 강의 09 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-Our brand colors are orange and black.
+우리 브랜드 색상은 주황색과 검은색입니다.
 
-## Prompt 2
+## 프롬프트 2
 
-Use extracted props definitions with a TypeScript type instead of inline and re-run tests.
+인라인(inline) 방식 대신 TypeScript 타입을 사용하여 추출된 props 정의를 적용하고, 테스트를 다시 실행하세요.
 
-## Prompt 3
+## 프롬프트 3
 
-Do a deep review: Spawn multiple subagents to go through all the changes on this branch from three different perspectives and see if anything doesn't make sense, could be better, etc.
+심층 검토를 수행하세요. 여러 하위 에이전트(sub-agent)를 생성하여 세 가지 다른 관점에서 이 브랜치의 모든 변경 사항을 검토하고, 논리적으로 어색하거나 개선할 점이 있는지 등을 확인하세요.
 
-## Prompt 4
+## 프롬프트 4
 
-Use your changelog skill to update the changelog with work done on this branch.
+변경 로그(changelog) 작성 기능을 활용하여, 이 브랜치에서 수행된 작업 내용을 변경 로그에 업데이트하세요.
