@@ -1,33 +1,33 @@
-# Lesson 08 — Prompts
+# Lesson 08 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-Update this tech-stack.md to capture that we want to use Vitest tests for validation and write a script in package.json.
+검증을 위해 Vitest를 사용하고 `package.json`에 관련 스크립트를 추가하도록 `tech-stack.md`를 업데이트하세요.
 
-## Prompt 2
+## 프롬프트 2
 
-Update existing specs and code to reflect these testing changes.
+이러한 테스트 변경 사항이 반영되도록 기존 명세(spec)과 코드를 업데이트하세요.
 
-## Prompt 3
+## 프롬프트 3
 
-Write a new test suite using the specified testing framework.
+지정된 테스트 프레임워크를 사용하여 새로운 테스트 스위트를 작성하세요.
 
-## Prompt 4
+## 프롬프트 4
 
-The product's web UI should follow responsive design. Update the product specs and all feature specs to reflect this, as well as any code.
+제품의 웹 UI는 반응형 디자인을 따라야 합니다. 이를 반영하여 제품 사양, 모든 기능 명세, 그리고 관련 코드를 업데이트하세요.
 
-## Prompt 5
+## 프롬프트 5
 
-I want to keep a CHANGELOG.md in the project root, with headings for dates. If no changelog, examine git commits and add bullets for each date. Then, as we work, we will manually invoke this skill before merging. Help me write a skill for this.
+프로젝트 루트에 날짜별 제목을 포함한 `CHANGELOG.md`를 유지하고 싶습니다. 변경 로그가 없다면 git 커밋을 확인하여 날짜별로 항목(bullet point)을 추가하세요. 이후 작업 과정에서 병합(merge)하기 전에 이 기능을 수동으로 실행할 것입니다. 이를 위한 기능을 작성하도록 도와주세요.
 
-## Prompt 6
+## 프롬프트 6
 
-Use your changelog skill to update the changelog.
+변경 로그 관리 기능을 사용하여 변경 로그를 업데이트하세요.
 
-## Prompt 7
+## 프롬프트 7
 
-Commit this, switch to main, and merge this branch, then delete it.
+변경 사항을 커밋하고, `main` 브랜치로 전환한 뒤, 현재 브랜치를 병합하고 삭제하세요.
 
-## Prompt 8
+## 프롬프트 8
 
-Go to the roadmap.md and combine phases 2-3-4-5 into a new phase 2.
+`roadmap.md`로 이동하여 2, 3, 4, 5단계를 하나의 새로운 2단계로 통합하세요.
