@@ -1,5 +1,5 @@
-# Lesson 06 — Prompts
+# 강의 06 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-Implement the remaining task groups.
+나머지 작업 그룹을 구현하세요.
