@@ -1,18 +1,18 @@
-# Lesson 11 — Prompts
+# 레슨 11 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-We have an AgentClinic project, a place for AI agents to get relief from their humans.
+우리는 AI 에이전트들이 인간으로부터 잠시 벗어나 휴식을 취할 수 있는 공간인 'AgentClinic' 프로젝트를 진행합니다.
 
-Look in README.md for input from stakeholders. Make a constitution in a specs directory:
+`README.md`에서 이해관계자들의 의견을 확인하세요. 그런 다음 `specs` 디렉토리에 다음 항목을 포함한 '헌장(constitution)'을 작성하세요.
 - `mission.md`
 - `tech-stack.md`
-- `roadmap.md` should be based on the TODO.md for high-level implementation order, in very small phases of work.
+- `roadmap.md`: 상위 수준의 구현 순서는 `TODO.md`를 기반으로 하되, 아주 작은 작업 단계로 나누어 작성해야 합니다.
 
-Interview me about mission, target audience, tech stack gaps.
+미션, 타겟 사용자, 기술 스택의 공백(gap) 등에 대해 저와 인터뷰를 진행하세요.
 
-Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
+중요: 디스크에 파일을 작성하기 전에, 반드시 위 3가지 항목과 관련된 내용을 `AskUserQuestion` 도구를 사용하여 확인해야 합니다.
 
-## Prompt 2
+## 프롬프트 2
 
-Implement the plan.
+계획을 구현하세요.
