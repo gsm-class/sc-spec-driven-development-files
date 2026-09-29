@@ -1,13 +1,13 @@
-# Lesson 07 — Prompts
+# Lesson 07 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-Update specs/2026-03-30-hello-hono/plan.md and implementation of a main layout component with a header/main/footer as three subcomponents. Make a CSS file, import it, and link to it.
+`specs/2026-03-30-hello-hono/plan.md` 파일을 업데이트하고, header, main, footer라는 세 가지 하위 컴포넌트로 구성된 메인 레이아웃 컴포넌트를 구현하세요. CSS 파일을 생성하고, 이를 임포트하여 연결하세요.
 
-## Prompt 2
+## 프롬프트 2
 
-Update the spec to capture that the header, footer, and main components should be in their own files.
+header, footer, main 컴포넌트를 각각 별도의 파일로 분리하도록 명시하는 내용으로 명세(spec)을 업데이트하세요.
 
-## Prompt 3
+## 프롬프트 3
 
-Mark this specs/roadmap.md phase as complete, commit this work, switch to main, and merge this branch, then delete it.
+`specs/roadmap.md`의 해당 단계를 완료로 표시하고, 변경 사항을 커밋한 뒤, `main` 브랜치로 전환하여 해당 브랜치를 병합하고 삭제하세요.
