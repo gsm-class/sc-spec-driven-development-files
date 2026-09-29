@@ -1,28 +1,28 @@
-# Lesson 04 — Prompts
+# 레슨 04 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-We are writing AgentClinic, a place for AI agents to get relief from their humans. Look in the README.md for input from stakeholders.
+우리는 AI 에이전트가 인간(사용자)으로부터 잠시 벗어나 쉴 수 있는 공간인 'AgentClinic'을 개발하려고 합니다. 이해관계자들의 의견은 `README.md`에서 확인하세요.
 
-## Prompt 2
+## 프롬프트 2
 
-Let's create a "constitution" in a specs directory:
+`specs` 디렉토리에 다음을 포함하는 "헌장(constitution)"을 작성해 봅시다:
 - `mission.md`
 - `tech-stack.md`
-- `roadmap.md` for high-level implementation order, in very small phases of work.
+- `roadmap.md` (매우 작은 작업 단계로 구분된 개략적인 구현 순서 포함)
 
-Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
+중요: 디스크에 파일을 작성하기 전에, 이 3가지 항목과 관련하여 `AskUserQuestion` 도구를 *반드시* 사용해야 합니다.
 
-## Prompt 3
+## 프롬프트 3
 
-Use server-side TypeScript and recommend a framework.
+서버 사이드 TypeScript를 사용하고 적절한 프레임워크를 추천해 주세요.
 
-## Prompt 4
+## 프롬프트 4
 
-Add a target audience to the mission:
-- Course students learning spec-driven development with AI coding agents
-- Developers giving AI coding demos at conference booths
+미션(mission)에 다음 대상 고객을 추가하세요:
+- AI 코딩 에이전트를 활용한 '스펙 주도 개발(spec-driven development)'을 학습하는 수강생
+- 컨퍼런스 부스에서 AI 코딩 시연을 진행하는 개발자
 
-## Prompt 5
+## 프롬프트 5
 
-In tech stack add that we use SQLite.
+기술 스택(tech stack)에 SQLite를 사용한다는 점을 추가하세요.
