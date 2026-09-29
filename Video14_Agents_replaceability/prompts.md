@@ -1,5 +1,5 @@
-# Lesson 13 — Prompts
+# 13강 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-What parts of our code need more tests?
+우리 코드 중 어떤 부분에 추가적인 테스트가 필요한가요?
