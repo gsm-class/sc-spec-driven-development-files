@@ -1,23 +1,23 @@
-# Lesson 10 — Prompts
+# 레슨 10 — 프롬프트
 
-## Prompt 1
+## 프롬프트 1
 
-Go through all the features on specs/roadmap.md, make a mvp branch, and ask me about the feature specs needed to complete an MVP.
-Create:
- - A new directory under specs for this feature work
- - In there:
-  - `plan.md` for the task list
-  - `requirements.md` for the scope, decisions, context
-  - `validation.md` for how to know the implementation succeeded and can be merged
+`specs/roadmap.md`에 나열된 모든 기능을 검토하고 `mvp` 브랜치를 생성한 다음, MVP를 완성하는 데 필요한 기능 명세(feature specs)에 대해 저에게 질문해 주세요.
+다음 항목을 생성하세요:
+- 이 기능 작업을 위한 `specs` 하위의 새 디렉터리
+- 해당 디렉터리 내:
+- 작업 목록을 위한 `plan.md`
+- 범위, 결정 사항, 배경 정보를 위한 `requirements.md`
+- 구현 성공 여부 및 병합 가능 여부를 확인하는 방법을 담은 `validation.md`
 
-Refer to specs/mission.md and specs/tech-stack.md plus the existing feature specs for guidance.
+참고 자료로 `specs/mission.md`, `specs/tech-stack.md` 및 기존 기능 명세를 활용하세요.
 
-Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
+중요: 디스크에 내용을 작성하기 전에 반드시 이 3가지 항목과 관련된 `AskUserQuestion` 도구를 사용해야 합니다.
 
-## Prompt 2
+## 프롬프트 2
 
-Implement this plan.
+이 계획을 구현하세요.
 
-## Prompt 3
+## 프롬프트 3
 
-Based on the MVP, did you find anything that needs clarification in the specs?
+MVP를 바탕으로 볼 때, 명세에서 추가적인 설명이나 확인이 필요한 부분이 있었나요?
